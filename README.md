@@ -1,11 +1,11 @@
 <h2>Olá!! Eu sou o Felipe Grassi ribon</h2>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=feribon&theme=tokyonight&show_icons=true&include_all_commits=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=feribon&theme=tokyonight&show_icons=true&include_all_commits=true&card_width=335" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" fontsize=5px src="https://github-readme-stats.vercel.app/api/top-langs?username=feribon&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&card_width=335" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=feribon&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&card_width=313" />
 </a>
+
 <hr>
 <h3>Main skills</h3>
 <div style="display: inline_block">
