@@ -1,10 +1,10 @@
 ## Olá!! Eu sou o Felipe Grassi ribon
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=feribon&theme=tokyonight&show_icons=true&include_all_commits=true&" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=feribon&theme=tokyonight&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" fontsize=5px src="https://github-readme-stats.vercel.app/api/top-langs?username=feribon&layout=compact&card_width=300&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+  <img height=180 align="center" fontsize=5px src="https://github-readme-stats.vercel.app/api/top-langs?username=feribon&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&card_width=335" />
 </a>
 
 <div style="display: inline_block"><hr>
@@ -28,6 +28,6 @@
   <a href="https://wa.me/5511982271936" target="_blank"><img src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 </div><hr>
-![Snake gif](https://github.com/feribon/feribon/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- ![Snake gif](https://github.com/feribon/feribon/blob/output/github-contribution-grid-snake-dark.svg) -->
 
 
