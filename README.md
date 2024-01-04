@@ -28,7 +28,7 @@
   <a href="https://wa.me/5511982271936" target="_blank"><img src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 </div><hr>
-![Snake animation](https://github.com/feribon/blob/output/github-contibution-grid-snake.svg)
+![Snake gif](https://github.com/feribon/feribon/blob/output/github-contibution-grid-snake.svg)
 
 **feribon/feribon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
